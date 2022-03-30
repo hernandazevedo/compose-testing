@@ -36,7 +36,7 @@ The compose-codelabs repo contains starter code for all codelabs in the pathway.
 
 For this codelab, use the **TestingCodelab** project.
 
-*   ![android_studio_folder.png](/codelabs/jetpack-compose-testing/img/a1beacb239657647.png) **TestingCodelab** — Project that contains the start and finished code for this codelab
+*   ![android_studio_folder.png](https://developer.android.com/codelabs/jetpack-compose-testing/img/6f0f6fd5cd023084.png) **TestingCodelab** — Project that contains the start and finished code for this codelab
 
 The project is built in multiple git branches:
 
